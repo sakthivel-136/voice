@@ -4,5 +4,5 @@ scikit-learn
 gtts
 openai-whisper
 ffmpeg-python
-torch
-torchaudio
+torch==2.1.0
+torchaudio==2.1.0
