@@ -1,5 +1,8 @@
 streamlit
-scikit-learn
 pandas
-numpy
-matplotlib
+scikit-learn
+gtts
+openai-whisper
+ffmpeg-python
+torch
+torchaudio
